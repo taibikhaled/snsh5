@@ -1,0 +1,9 @@
+
+dans le terminal, veuillez exécuter les commandes suivant :
+
+sudo chmod 777 -R /opt/lampp/htdocs/snsh/backup/institut/inscription/pieces
+sudo chmod 777 -R /opt/lampp/htdocs/snsh/backup/etablissement/inscription/pieces
+sudo chmod 777 -R /opt/lampp/htdocs/snsh/backup/ecole01/inscription/pieces
+sudo chmod 777 -R /opt/lampp/htdocs/snsh/backup/bejaia/inscription/pieces
+sudo chmod 777 -R /opt/lampp/htdocs/snsh/backup/oran/inscription/pieces
+
